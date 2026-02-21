@@ -1,6 +1,13 @@
 # Hi — I'm Adylbekov Eldiyar 👋
 
-Backend Developer | Python • FastAPI • Django  
+🌍 Language:  
+[🇬🇧 English](#-english-version) | [🇷🇺 Русская версия](#-русская-версия)
+
+---
+
+# 🇬🇧 English Version
+
+## Backend Developer | Python • FastAPI • Django  
 Focused on backend architecture, APIs and infrastructure
 
 ---
@@ -33,39 +40,39 @@ Focused on backend architecture, APIs and infrastructure
 ## Tech & Skills
 
 ### Backend
-- REST API design
-- Authentication & authorization (JWT)
-- Logging and observability basics
-- Telegram bot backend development
+- REST API design  
+- Authentication & authorization (JWT)  
+- Logging and observability basics  
+- Telegram bot backend development  
 
 ### Databases
-- Relational database design
-- SQL queries and schema structuring
-- Redis for caching and background tasks
+- Relational database design  
+- SQL queries and schema structuring  
+- Redis for caching and background tasks  
 
 ### Infrastructure
-- Docker (images, containers, volumes, docker-compose)
-- Linux CLI, server logs, networking basics
-- Basic deployment workflows
+- Docker (images, containers, volumes, docker-compose)  
+- Linux CLI, server logs, networking basics  
+- Basic deployment workflows  
 
 ---
 
 ## Currently Expanding
-- Node.js ecosystem and JavaScript backend fundamentals
-- Frontend basics (HTML, CSS, JavaScript)
-- Advanced containerized deployment patterns
+- Node.js ecosystem and JavaScript backend fundamentals  
+- Frontend basics (HTML, CSS, JavaScript)  
+- Advanced containerized deployment patterns  
 
 ---
 
 ## Featured Projects
 
-### MirrorAI
+### MirrorAI  
 Main backend project  
 https://github.com/chelobureck/MirrorAi  
 
 Backend system with API, authentication, logging and integrations.
 
-### ayana-server
+### ayana-server  
 Educational Telegram bot backend  
 https://github.com/chelobureck/ayana-server  
 
@@ -81,21 +88,73 @@ Focused on rapid prototyping and real-world implementation.
 
 ---
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chelobureck&show_icons=true&locale=en&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chelobureck&layout=compact&theme=tokyonight&locale=en)
-
----
-
-## Open to
-Freelance backend tasks, code reviews, and collaboration on API-driven projects.
-
----
-
 ## Contact
 - Telegram: @chelobureckk  
 - Instagram: https://instagram.com/chelobureck  
-- Geeks courses: https://www.instagram.com/geeks_edu
+
+---
+
+# 🇷🇺 Русская версия
+
+## Backend-разработчик | Python • FastAPI • Django  
+Фокус на архитектуре бэкенда, API и инфраструктуре
+
+---
+
+## Обо мне
+- 16 лет  
+- Специализация — backend-разработка  
+- Интересуюсь масштабируемыми системами и чистой архитектурой API  
+- Хобби: спорт, автоспорт  
+
+---
+
+## Навыки
+
+### Backend
+- Проектирование REST API  
+- Аутентификация и авторизация (JWT)  
+- Логирование и основы наблюдаемости  
+- Разработка backend-логики для Telegram-ботов  
+
+### Базы данных
+- Проектирование реляционных БД  
+- SQL-запросы и структура схем  
+- Использование Redis для кэширования и фоновых задач  
+
+### Инфраструктура
+- Docker (образы, контейнеры, volumes, docker-compose)  
+- Linux CLI, работа с логами и процессами  
+- Базовые процессы деплоя  
+
+---
+
+## Сейчас изучаю
+- Экосистему Node.js  
+- Основы фронтенда (HTML, CSS, JavaScript)  
+- Продвинутые подходы к контейнеризации  
+
+---
+
+## Проекты
+
+### MirrorAI  
+Основной backend-проект  
+https://github.com/chelobureck/MirrorAi  
+
+Backend-система с API, авторизацией, логированием и интеграциями.
+
+### ayana-server  
+Образовательный Telegram-бот  
+https://github.com/chelobureck/ayana-server  
+
+Структурированная backend-логика для интерактивного обучения.
+
+---
+
+## Связь
+- Telegram: @chelobureckk  
+- Instagram: https://instagram.com/chelobureck  
 
 ---
 
