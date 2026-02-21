@@ -67,7 +67,6 @@ Participation is about learning, shipping prototypes, and gaining practical expe
 ---
 
 ## Contact
-- GitHub: https://github.com/chelobureck  
 - Telegram: @chelobureckk  
 - Instagram: https://instagram.com/chelobureck  
 - Courses (Geeks): https://www.instagram.com/geeks_edu
