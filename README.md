@@ -67,16 +67,18 @@ Focused on backend architecture, APIs and infrastructure
 ## Featured Projects
 
 ### MirrorAI  
-Main backend project  
+Main non-commercial project  
 https://github.com/chelobureck/MirrorAi  
 
-Backend system with API, authentication, logging and integrations.
+My non-commercial project that generates AI-powered presentations in real time for speakers, teachers and content creators.  
+Focused on backend architecture, API design, authentication, logging and AI integration.
 
 ### ayana-server  
 Educational Telegram bot backend  
 https://github.com/chelobureck/ayana-server  
 
-Structured backend logic for interactive learning flows.
+My project on the Pad-Project platform — a server for a Telegram bot in the field of preschool education using artificial intelligence.  
+Includes structured backend logic, AI interaction flows and API-based architecture.
 
 ---
 
@@ -89,6 +91,8 @@ Focused on rapid prototyping and real-world implementation.
 ---
 
 ## Contact
+- Phone: +996 505 536 622  
+- Email: adylbekoveldiyar2@gmail.com  
 - Telegram: @chelobureckk  
 - Instagram: https://instagram.com/chelobureck  
 
@@ -129,30 +133,27 @@ Focused on rapid prototyping and real-world implementation.
 
 ---
 
-## Сейчас изучаю
-- Экосистему Node.js  
-- Основы фронтенда (HTML, CSS, JavaScript)  
-- Продвинутые подходы к контейнеризации  
-
----
-
 ## Проекты
 
 ### MirrorAI  
-Основной backend-проект  
+Некоммерческий проект  
 https://github.com/chelobureck/MirrorAi  
 
-Backend-система с API, авторизацией, логированием и интеграциями.
+Проект, который генерирует AI-презентации в реальном времени для спикеров и преподавателей.  
+Сфокусирован на backend-архитектуре, API, авторизации, логировании и интеграции с ИИ.
 
 ### ayana-server  
 Образовательный Telegram-бот  
 https://github.com/chelobureck/ayana-server  
 
-Структурированная backend-логика для интерактивного обучения.
+Сервер для Telegram-бота в сфере дошкольного образования с использованием ИИ.  
+Реализована структурированная backend-логика и архитектура взаимодействия через API.
 
 ---
 
 ## Связь
+- Телефон: +996 505 536 622  
+- Email: adylbekoveldiyar2@gmail.com  
 - Telegram: @chelobureckk  
 - Instagram: https://instagram.com/chelobureck  
 
