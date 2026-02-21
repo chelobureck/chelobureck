@@ -3,8 +3,12 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org)  
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)  
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)](https://www.djangoproject.com)  
-[![Geeks Courses](https://img.shields.io/static/v1?label=Geeks&message=Backend%20Courses&labelColor=%23FFD700&color=%23000000)](https://www.instagram.com/geeks_edu)  
-[![Self-taught](https://img.shields.io/static/v1?label=Self-taught&message=Practical&labelColor=%231F2937&color=%2310B981)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org)  
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org)  
+[![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)](https://jwt.io)  
+[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)  
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org)  
 
 Backend developer • 16 years old • he/him  
 Self-taught with supplementary backend courses at Geeks. I build production-ready backends for websites and Telegram bots, focusing on reliability, clear API design and observability.
